@@ -16,7 +16,7 @@ const About = () => {
                 </div>
                 <div className='border py-8 rounded-xl shadow-xl'>
                     <p className='text-6xl font-bold text-indigo-600'>24/7</p>
-                    <p className='text-gray-600 mt-2'>Funcionamento</p>
+                    <p className='text-gray-600 mt-2'>Atendimento</p>
                 </div>
                 <div className='border py-8 rounded-xl shadow-xl'>
                     <p className='text-6xl font-bold text-indigo-600'>100K</p>

@@ -13,8 +13,8 @@ const Support = () => {
             
         <div className='max-w-[1240px] mx-auto text-white relative'>
             <div className='px-4 py-12'>
-                <h2 className='pt-8 text-slate-300 uppercase text-center text-3xl'>Support</h2>
-                <h3 className='text-5xl font-bold py-6 text-center'>Finding the right team</h3>
+                <h2 className='pt-8 text-slate-300 uppercase text-center text-3xl'>Suporte</h2>
+                <h3 className='text-5xl font-bold py-6 text-center'>Encontre a equipe certa para você</h3>
                 <p className='py-4 text-slate-300'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Facilis quisquam placeat fugiat, dolore repellendus numquam enim aliquam animi magni quibusdam?</p>
             </div>
 
